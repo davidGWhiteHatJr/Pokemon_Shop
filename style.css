@@ -1,0 +1,91 @@
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: black;
+  }
+  li {
+    float: left;
+  }
+  li a {
+    display: block;
+    padding: 8px;
+  }
+  #PKBL
+  {
+      width: 250px;
+      height: 250px;
+  }
+.heading
+{
+    font-family: 'Rubik Mono One', monospace;
+    letter-spacing: 1.25px;
+    color: red;
+}
+#home
+{
+  color: red;
+  
+}
+#cards
+{
+  color: red;
+  font-family: 'Rubik Mono One', monospace;
+  
+}
+p 
+{
+  color: red;
+  font-family: 'Rubik Mono One', monospace;
+}
+label
+{
+  color: red;
+  font-family: 'Rubik Mono One', monospace;
+}
+
+body
+{
+  background-color: red;
+}
+
+marquee
+{
+  color: red;
+  letter-spacing: 2.5px;
+  font-family: 'Rubik Mono One', monospace;
+}
+
+#RSRVA
+{
+  width: 300px;
+  height: 415px;
+}
+
+#SV
+{
+  width: 500px;
+  height: 300px;
+}
+
+#LA
+{
+  width: 400px;
+  height: 250px;
+}
+
+#BP
+{
+  width: 400px;
+  height: 250px;
+}
+
+.crf
+{
+  position: fixed;
+  color: red;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  line-height: 3;
+  text-align: center;
+}
